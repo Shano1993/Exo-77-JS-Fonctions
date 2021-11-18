@@ -4,4 +4,6 @@ function calculateApples(amount) {
 
 /* Appeler ci dessous la fonction calculateApples en indiquant le parametre approprié */
 
+calculateApples(5);
+
 

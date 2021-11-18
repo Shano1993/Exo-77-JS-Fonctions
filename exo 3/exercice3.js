@@ -15,6 +15,14 @@ function txtReturn() {
 document.getElementById('container').innerHTML = txtInsert();
 document.getElementById('container').style.background = backgroundSet();
 
+function txtInsert () {
+    return "J'aime le javascript";
+}
+
+function backgroundSet () {
+    return "magenta";
+}
+
 
 
 
